@@ -1,0 +1,51 @@
+.container{
+width: 1156px;
+height: 425px;
+border-radius: 14px;
+margin: auto;;
+}
+.heading{
+    font-family: Inter;
+font-size: 54px;
+font-weight: 600;
+line-height: 77px;
+letter-spacing: 0em;
+text-align: center;
+margin:50px;
+}
+
+.name{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color:var(--color-white);
+
+}
+
+.cases{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color:var(--color-white);
+}
+
+.card{
+    width: 344px;
+    height: 109px;
+    border-radius: 14px;
+background-color: var(--color-black);
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+cursor: pointer;
+}
+.card:hover{
+    background-color: var(--color-primary);
+
+}

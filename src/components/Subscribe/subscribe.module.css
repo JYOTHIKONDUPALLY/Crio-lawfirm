@@ -1,0 +1,43 @@
+.Subscribe{
+    width: 1245px;
+    height: 356px;
+margin: auto;
+background: #47474780;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.heading{
+    font-family: Helvetica Now Display;
+font-size: 55px;
+font-weight: 500;
+line-height: 75px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 30px;
+}
+
+.container{
+display: flex;
+justify-content: space-around;
+width:686px;
+margin: auto;
+}
+.input{
+ width: 276px;
+    height: 53px;
+    border-radius: 8px, 0px, 0px, 8px;
+    background-color:#E4E4E4;
+}
+
+.input::placeholder{
+    padding: 10px;
+}
+.btn{
+    background-color: var(--color-primary);
+    color:var(--color-black);
+    width: 116px;
+height: 53px;
+border-radius: 0px, 8px, 8px, 0px;
+}

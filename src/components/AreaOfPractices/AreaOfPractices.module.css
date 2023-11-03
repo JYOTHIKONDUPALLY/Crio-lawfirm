@@ -1,0 +1,31 @@
+.container{
+width: 1140px;
+height: 1228px;
+border-radius: 14px;
+margin: auto;
+}
+
+.GridItem{
+    border-radius:14px;
+ 
+   }
+.heading{
+font-family: Inter;
+font-size: 54px;
+font-weight: 600;
+line-height: 77px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+.title{
+    text-align: center;
+    position:relative;
+    top:-50px;
+    left:auto;
+    font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+}

@@ -1,0 +1,14 @@
+.container{
+    width: 359px;
+    height: 377px;
+    border-radius: 14px;
+    border: 1.4px solid #FFFFFF1A;
+}
+.btn{
+    background-color: var(--color-primary);
+    color:var(--color-black);
+    width: 121px;
+    height: 43px;
+    border-radius: 23.5px;
+    border:1px solid black;
+}

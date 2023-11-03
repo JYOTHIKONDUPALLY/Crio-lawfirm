@@ -1,0 +1,46 @@
+.carousel{
+   border: 1px soild red; 
+}
+.card{
+    width: 359px;
+height: 368px;
+border-radius: 14px;
+/* border: 1.4px soild black */
+border: 1px soild red; 
+}
+
+.image{
+    width: 105px;
+height: 102px;
+}
+
+.name{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+}
+.position{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.description{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+
+  

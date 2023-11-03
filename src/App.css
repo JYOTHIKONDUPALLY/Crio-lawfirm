@@ -1,0 +1,31 @@
+:root{
+  --color-primary:#e3b748;
+  --color-black:#111111;
+  --color-white:#fff;
+}
+*,*::before, *::after{
+  box-sizing:border-box;
+}
+
+*{
+  margin:0;
+}
+
+html, body{
+  height:100%;
+}
+
+body{
+  background-color: var(--color-black);
+  font-family:"Poppins", sans-serif;
+  color:var(--color-white);
+  overflow-x:hidden;
+}
+
+img, svg{
+  display:block;
+  max-width:100%;
+}
+.section1{
+  height:990px;
+}
